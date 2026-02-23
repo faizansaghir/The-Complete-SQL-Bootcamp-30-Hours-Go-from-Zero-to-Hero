@@ -11,14 +11,14 @@
 
 ## Database creation
 
-- We can create database in SQL server in 3 ways
-  1. Using script which has all DDL and DML script
-  2. Creating new databsae and importing flat files(csv)
-     1. Right click on Databases -> New Database
-     2. Provide a name and click OK
-     3. Right click on newly created database -> Import Flat File
-     4. Select flat file -> Next (Preview Data) -> Next (Modify Columns) -> Next (Summary) -> Finish
-  3. Restore database from backup file (.bak)
-     1. Right click on Databases -> Restore Database
-     2. Select source (If Device, file should be present at backup location) -> Update name if required
-     3. Click OK
+We can create database in SQL server in 3 ways
+1. Using script which has all DDL and DML script
+2. Creating new databsae and importing flat files(csv)
+   1. Right click on Databases -> New Database
+   2. Provide a name and click OK
+   3. Right click on newly created database -> Import Flat File
+   4. Select flat file -> Next (Preview Data) -> Next (Modify Columns) -> Next (Summary) -> Finish
+3. Restore database from backup file (.bak)
+   1. Right click on Databases -> Restore Database
+   2. Select source (If Device, file should be present at backup location) -> Update name if required
+   3. Click OK
