@@ -7,4 +7,4 @@
 <img width="720" height="403" alt="No SQL and SQL" src="https://github.com/user-attachments/assets/7b83abab-d939-4e25-beda-b46ecf430b78" />
 
 ## Groups of command
-<img width="954" height="533" alt="DDL, DML and DQL" src="https://github.com/user-attachments/assets/d927d87c-7821-4ffa-96f2-46d78d4d924d" />
+<img width="720" height="402" alt="DDL, DML and DQL" src="https://github.com/user-attachments/assets/d927d87c-7821-4ffa-96f2-46d78d4d924d" />
