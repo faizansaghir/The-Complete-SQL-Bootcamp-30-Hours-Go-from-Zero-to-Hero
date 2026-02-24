@@ -22,3 +22,7 @@ We can create database in SQL server in 3 ways
    1. Right click on Databases -> Restore Database
    2. Select source (If Device, file should be present at backup location) -> Update name if required
    3. Click OK
+
+## SQL Concepts
+
+<img width="720" height="376" alt="Concepts" src="https://github.com/user-attachments/assets/8bb9fdd2-acaa-4648-be05-81486fe0ab61" />
