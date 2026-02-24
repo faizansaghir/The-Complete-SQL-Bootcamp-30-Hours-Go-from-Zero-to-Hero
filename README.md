@@ -40,3 +40,7 @@ We can create database in SQL server in 3 ways
 ### WHERE
 
 <img width="720" height="399" alt="Where clause" src="https://github.com/user-attachments/assets/9fa1507b-640a-4310-b018-7371bf9b3eb2" />
+
+### ORDER BY
+
+<img width="720" height="403" alt="Order By clause" src="https://github.com/user-attachments/assets/05ba19f0-5612-4e9f-8d54-bdd7438d8fc8" />
