@@ -26,3 +26,11 @@ We can create database in SQL server in 3 ways
 ## SQL Concepts
 
 <img width="720" height="376" alt="Concepts" src="https://github.com/user-attachments/assets/8bb9fdd2-acaa-4648-be05-81486fe0ab61" />
+
+## SELECT and FROM
+
+### Select all columns from table
+<img width="720" height="374" alt="Select All From Table" src="https://github.com/user-attachments/assets/5335f977-1e89-4b0a-8725-99d6ba8f75cc" />
+
+### Select required columns from table
+<img width="720" height="394" alt="Select Columns From Table" src="https://github.com/user-attachments/assets/fa610e94-1433-4063-a8eb-bdef056d7497" />
